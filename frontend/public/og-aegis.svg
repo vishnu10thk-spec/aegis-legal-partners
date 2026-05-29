@@ -1,0 +1,28 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#090D16"/>
+  <path d="M0 0H1200V630H0V0Z" fill="url(#bg)"/>
+  <circle cx="246" cy="118" r="310" fill="#D6A84F" opacity="0.16" filter="url(#blur)"/>
+  <circle cx="1035" cy="74" r="280" fill="#6366F1" opacity="0.12" filter="url(#blur)"/>
+  <rect x="54" y="54" width="1092" height="522" rx="42" stroke="url(#gold)" stroke-opacity="0.55" stroke-width="2"/>
+  <path d="M152 149L209 182V236C209 272 186 299 152 311C118 299 95 272 95 236V182L152 149Z" fill="url(#gold)" fill-opacity="0.14" stroke="url(#gold)" stroke-width="4"/>
+  <path d="M125 221H179M136 221L116 264H156L136 221ZM168 221L148 264H188L168 221ZM152 190V282" stroke="#FFF7D6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="94" y="395" fill="#F8FAFC" font-family="Georgia, serif" font-size="90" letter-spacing="-5">Aegis Legal Partners</text>
+  <text x="98" y="459" fill="#F7E7B4" font-family="Arial, sans-serif" font-size="24" letter-spacing="9">ELITE CORPORATE · PRIVATE WEALTH · TRIAL COUNSEL</text>
+  <text x="98" y="512" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="25">Cinematic legal strategy for high-stakes matters, boardrooms, founders, and family offices.</text>
+  <defs>
+    <filter id="blur" x="-200" y="-300" width="1600" height="1200" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="90"/>
+    </filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090D16"/>
+      <stop offset="0.48" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#070A12"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="54" y1="54" x2="1150" y2="582" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF7D6"/>
+      <stop offset="0.38" stop-color="#D6A84F"/>
+      <stop offset="0.75" stop-color="#8A641C"/>
+      <stop offset="1" stop-color="#F7E7B4"/>
+    </linearGradient>
+  </defs>
+</svg>

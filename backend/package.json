@@ -1,0 +1,21 @@
+{
+  "name": "aegis-legal-partners-backend",
+  "version": "1.0.0",
+  "description": "Express API for the Aegis Legal Partners PWA demo.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "law-firm",
+    "express",
+    "api"
+  ],
+  "author": "Aegis Legal Partners",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
